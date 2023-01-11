@@ -1,4 +1,4 @@
-# -Designing-a-Sales-dashboard-in-Excel
+# Designing-a-Sales-dashboard-in-Excel
 Objectives: 
 To Use Excel to analyze the sales based on various product categories.
 
